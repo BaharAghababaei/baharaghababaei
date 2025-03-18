@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bahareh Aghababaei!
 
 ## 🎯 About Me
-Welcome to my GitHub! I’m a data scientist who loves turning complex problems into practical, data-driven solutions. I hold two MSc degrees — one in Business Administration (Operations & Logistics) from UBC Sauder School of Business and another in Industrial Engineering from Iran University of Science & Technology. 
+Welcome to my GitHub! I’m a data scientist who loves turning complex problems into practical, data-driven solutions. I hold two MSc degrees — one in Business Administration (Operations & Logistics) from UBC Sauder School of Business and another in Industrial Engineering from Iran University of Science & Technology.   
 My main interest lies in applying advanced analytics — including optimization, machine learning, and statistical modeling — to solve real-world challenges in areas like transportation, healthcare, and retail.
 
 
