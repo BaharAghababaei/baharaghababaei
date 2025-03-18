@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Bahareh Aghababaei!
 
 ## 🎯 About Me
-I’m a data scientist with dual MSc degrees in Business Administration (Operations & Logistics) from the University of British Columbia Sauder School of Business and Industrial Engineering from IUST. With over five years of research experience, I specialize in predictive and prescriptive analytics, optimization, and machine learning. My passion lies in transforming data into actionable insights for real-world impact in healthcare, transportation, and retail industries.
+Welcome to my GitHub! I’m a data scientist who loves turning complex problems into practical, data-driven solutions. I hold two MSc degrees — one in Business Administration (Operations & Logistics) from UBC Sauder School of Business and another in Industrial Engineering from Iran University of Science & Technology. 
+My main interest lies in applying advanced analytics — including optimization, machine learning, and statistical modeling — to solve real-world challenges in areas like transportation, healthcare, and retail.
 
-Welcome to my GitHub! I’m a data scientist with a passion for transforming complex problems into actionable, data-driven solutions. With dual MSc degrees in Business Administration (Operations & Logistics) from UBC Sauder School of Business and Industrial Engineering from Iran University of Science & Technology, I'm interested in using advanced analytics such as optimization, machine learning, and statistical modeling for real-world challenges.
 
 ## 🔎 What I Do
 - **Predictive and prescriptive analytics**
